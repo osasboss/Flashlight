@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026272023427",
+    "firebase_url": "https://mobile-ad-33250.firebaseio.com",
+    "project_id": "mobile-ad-33250",
+    "storage_bucket": "mobile-ad-33250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026272023427:android:199022d5b774bcd9",
+        "android_client_info": {
+          "package_name": "com.e4metech.flashlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026272023427-1u8gcfnt27hf3nhgr5ku743vi07ocbid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdKtxjgQ17e0DZklMDLmbNNQl0ILn4Iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
